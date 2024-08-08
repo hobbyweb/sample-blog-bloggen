@@ -1,5 +1,5 @@
 title: ทดสอบการตั้งค่า Raspberry pi zero สำหรับ host webserver 
-short: "วิธีการตั้งค่า Raspberry pi zero เพื่อทำเป็นเวปเซิฟเวอร์๋ โดยเซ็ทระบบด้วย Docker, Pocketbase, Nginx และ Cloudflare tunnel"
+short: "วิธีการตั้งค่า Raspberry pi zero เพื่อทำเป็นเวปเซิฟเวอร์ โดยเซ็ทระบบด้วย Docker, Pocketbase, Nginx และ Cloudflare tunnel"
 date: 01.08.2024
 tags:
     - Raspberry Pi
