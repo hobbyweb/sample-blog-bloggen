@@ -1,3 +1,3 @@
-# blog
+# Sample blog
 
-Markdown source, resources and metadata for my blog at [zupzup.org](https://www.zupzup.org).
+This is sample blog for blog generator, fork it from blog-generator's author 'zupzup.org' to be a demo site.
