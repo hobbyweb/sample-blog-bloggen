@@ -1,0 +1,8 @@
+title: การใช้งาน async/await และ setTimeout ใน javascript
+short: "ตัวอย่างวิธีใช้งาน async/await ใน javascript และการใช้งาน setTimeout เพื่อหน่วงเวลาการทำงาน บทความนี้แสดงถึงความแตกต่างของการใช้งานคำสั่งดังกล่าวให้ผู้เขียนโปรแกรมเห็นภาพมากขึ้น"
+date: 05.08.2024
+tags:
+    - javascipt
+    - async
+    - await
+    - setTimeout
